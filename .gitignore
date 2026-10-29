@@ -1,0 +1,8 @@
+# Environment / secrets
+.env
+
+# Dependencies (none expected — kept as a guardrail)
+node_modules/
+
+# macOS
+.DS_Store
